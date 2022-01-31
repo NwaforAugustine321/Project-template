@@ -1,0 +1,10 @@
+{
+  "dataBase":{
+    "_databaseName": "testDataBase",
+    "_database_password": "austinebase422",
+    "_database_userName": "austine",
+    "storage": "./Storage/database.sqlite",
+    "dialect": "sqlite",
+    "host": "localhost"
+  }
+}
